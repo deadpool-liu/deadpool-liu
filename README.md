@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deadpool-liu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Deep learning and Python crawler
+- 🌱 I’m currently learning Reptile reverse
+- 💞️ I’m looking to collaborate on Deep learning and Python crawler
 - 📫 How to reach me ...2863823302@qq.com
 
 <!---
